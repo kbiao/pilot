@@ -22,8 +22,8 @@ import java.util.Map;
 import java.util.UUID;
 
 @SpringBootApplication
-@EnableOAuth2Sso
-@EnableZuulProxy
+//@EnableOAuth2Sso
+//@EnableZuulProxy
 public class UiApplication {
 
 	public static void main(String[] args) {

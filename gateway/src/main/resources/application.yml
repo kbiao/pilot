@@ -3,6 +3,8 @@ logging:
     org.springframework.security: DEBUG
 security:
   sessions: ALWAYS
+  user:
+   password: password
 spring:
   session:
     store-type: redis

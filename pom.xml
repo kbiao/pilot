@@ -12,6 +12,7 @@
 		<module>ui</module>
 		<module>resource</module>
 		<module>authserver</module>
+		<module>gateway</module>
 	</modules>
 	
 </project>
